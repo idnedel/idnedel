@@ -10,13 +10,6 @@
 
 ---
 
-### 🧑‍💻 About me
-
-- 📍 Rio Grande do Sul, Brazil
-- 🎯 Currently focusing on new projects
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -24,7 +17,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pipelines](https://img.shields.io/badge/Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -34,9 +27,17 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idnedel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=58a6ff&icon_color=58a6ff)](https://github.com/idnedel)
+| | | |
+| --- | --- | --- |
+| ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=idnedel&theme=github_dark) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idnedel&theme=github_dark) | ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idnedel&theme=github_dark) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idnedel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/idnedel)
+</div>
+
+---
+
+### 🔥 Streak
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=idnedel&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/idnedel)
 
