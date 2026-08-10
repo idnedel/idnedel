@@ -1,4 +1,4 @@
-<p><b>Infrastructure Engineer | Transitioning to Cloud & DevOps | 🇧🇷 </b></p>
+<p><b>infrastructure analyst | aspiring devops/sre engineer | 🇧🇷 </b></p>
 
 <p> • proficient in linux, windows & networking</p>
 <div> • working & learning docker, terraform, aws, azure, zabbix & grafana</div>
